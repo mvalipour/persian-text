@@ -1,0 +1,33 @@
+{
+  "name": "persian-text",
+  "version": "0.1.0",
+  "description": "Persian text utils",
+  "license": "MIT",
+  "repository": "mvalipour/persian-text",
+  "author": {
+    "name": "Mo Valipour",
+    "email": "valipour@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "mapping.json"
+  ],
+  "keywords": [
+    "persian",
+    "farsi",
+    "text",
+    "persian-text",
+    "normalize",
+    "fa"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "*"
+  }
+}
