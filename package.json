@@ -1,6 +1,6 @@
 {
   "name": "persian-text",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Persian text utils",
   "license": "MIT",
   "repository": "mvalipour/persian-text",
@@ -16,7 +16,8 @@
   },
   "files": [
     "index.js",
-    "mapping.json"
+    "mapping.json",
+    "meta.json"
   ],
   "keywords": [
     "persian",
